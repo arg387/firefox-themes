@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Calm wave",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-013-06591d4ad28ab7b9ee90f62f81d6b505.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(251, 203, 251, 0.86)",
+      "toolbar_text": "rgb(102, 102, 194)",
+      "frame": "rgb(247, 212, 212)",
+      "tab_background_text": "rgb(104, 104, 196)",
+      "toolbar_field": "rgba(102, 118, 225, 0.26)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(102, 102, 194)",
+      "popup": "rgb(245, 226, 226)",
+      "popup_text": "rgb(104, 104, 196)",
+      "tab_loading": "rgb(102, 102, 194)"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Nice Black",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-043-dfcec5f93f7a29f97b030eda45530203.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(25, 161, 187)",
+      "toolbar_text": "rgb(53, 53, 220)",
+      "frame": "rgb(26, 26, 24)",
+      "tab_background_text": "rgb(0, 255, 255)",
+      "toolbar_field": "rgb(220, 21, 21)",
+      "toolbar_field_text": "rgb(0, 10, 255)",
+      "tab_line": "rgb(37, 232, 193)",
+      "popup": "rgb(46, 39, 38)",
+      "popup_text": "rgb(98, 102, 183)",
+      "button_background_active": "rgb(9, 252, 203)",
+      "button_background_hover": "rgb(252, 252, 252)",
+      "icons_attention": "rgb(25, 23, 27)",
+      "icons": "rgb(40, 11, 185)",
+      "ntp_background": "rgb(59, 52, 52)",
+      "ntp_text": "rgb(25, 23, 27)",
+      "sidebar_border": "rgb(135, 22, 249)",
+      "tab_background_separator": "rgb(255, 248, 0)",
+      "tab_selected": "rgb(193, 189, 12)",
+      "tab_text": "rgb(3, 32, 216)",
+      "toolbar_field_text_focus": "rgb(0, 0, 0)",
+      "toolbar_top_separator": "rgb(0, 33, 250)",
+      "tab_loading": "rgb(37, 232, 193)"
+    }
+  }
+}
